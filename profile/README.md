@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="../images/logo.jpg" alt="Logo" width="200" height="200">
+    <img src="https://raw.githubusercontent.com/LighthouseNotes/Server/main/.images/logo.jpg" alt="Logo" width="200" height="200">
 </div>
 <h2 align="center"> Lighthouse Notes </h2>
 <p align="center">
